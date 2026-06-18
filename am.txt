@@ -2,3 +2,4 @@ hi
 
 
 this is a new mesage from master
+while rebase new line has been created by master
